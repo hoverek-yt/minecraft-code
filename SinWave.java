@@ -1,4 +1,4 @@
-// View Bobbing
+// Alternative for ViewBobbing.java
 // equation: y = amplitude(sin(x * frequency))
 public class SinWave {
     private float x;
