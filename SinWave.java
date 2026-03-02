@@ -1,3 +1,5 @@
+// View Bobbing
+// equation: y = amplitude(sin(x * frequency))
 public class SinWave {
     private float x;
     private float y;
